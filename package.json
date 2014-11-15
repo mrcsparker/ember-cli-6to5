@@ -1,0 +1,25 @@
+{
+  "name": "ember-cli-6to5",
+  "version": "0.0.1",
+  "description": "Use 6to5 to preprocess your ember-cli app's files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "author": "Chris Parker <mrcsparker@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "broccoli-6to5-transpiler": "^0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mrcsparker/ember-cli-6to5.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrcsparker/ember-cli-6to5/issues"
+  },
+  "homepage": "https://github.com/mrcsparker/ember-cli-6to5"
+}
